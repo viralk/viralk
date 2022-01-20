@@ -8,5 +8,8 @@ I mainly work in e-commerce (Jewelry and high-end watches ATM), where my other s
 - 👨🏻‍💻 I have no formal college education but I'm very curious, learn things pretty quickly, and I'm a google-fu jedi master!
 - 🖥 I really like to search and find the best gear for everything! Have a look at my [stuff]()!
 - ⭐️ Passionate about technology, [history](https://history.stackexchange.com/users/38501/viralk), music, videogames, movies, anime, and barbecue.
+- 📫 Reach me! [email](mailto:manuel.coiai@gmail.com) or [linkedin](https://www.linkedin.com/in/manuelcoiai/)
 
-📫 Reach me: [email](mailto:manuel.coiai@gmail.com) - [linkedin](https://www.linkedin.com/in/manuelcoiai/)
+<p align="center">
+  <i>"Never say never, because limits, like fears, are often just an illusion"</i>
+</p>
