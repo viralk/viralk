@@ -1,5 +1,5 @@
 # Hello there! 👋
-## I'm Manuel, a creative web developer living in Pisa, Italy 🇮🇹
+## I'm Manuel, a creative full-stack developer living in Pisa, Italy 🇮🇹
 
 I mainly work in e-commerce (Jewelry and high-end watches ATM), where my other skills in digital graphics, marketing and data analysis can combine to provide great results. Through my work experience I also help smaller companies make their first steps in the digital world.
 
