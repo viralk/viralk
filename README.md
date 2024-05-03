@@ -1,7 +1,7 @@
 # Hello there! 👋
 ## I'm Manuel, a front-end software developer living in Pisa, Italy 🇮🇹
 
-I mainly work in e-commerce (Jewelry and high-end watches ATM), where my other skills in digital graphics, marketing and data analysis can combine to provide great results. Through my work experience I also help smaller companies make their first steps in the digital world.
+I currently work at [SisTer](https://www.linkedin.com/company/sistemi-territoriali-srl/) building client-side applications for statistical data exchange according to the SDMX standard using web technologies, Javascript and the React ecosystem. Previously I worked for over 10 years as a web developer creating various websites and applications for e-commerce and retail.
 
 ### About Me
 - ⚙️ I'm proficient in HTML5, CSS3 / Sass, Javascript (ES6), Git / Github, CLI, responsive web design and more...
